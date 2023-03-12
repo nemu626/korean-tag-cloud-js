@@ -1,0 +1,17 @@
+{
+  "name": "korean-tag-cloud-js",
+  "version": "1.0.0",
+  "description": "한국어 단어/태그 구름 생성을 위한 node.js 라이브러리",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tag",
+    "cloud",
+    "word",
+    "cloud"
+  ],
+  "author": "nemu626",
+  "license": "MIT"
+}
